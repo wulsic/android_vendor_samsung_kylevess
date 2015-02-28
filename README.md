@@ -1,5 +1,2 @@
-# android_vendor_tree_kyleve
-Vendor Tree for Kyleve
-
-
-Vendor Tree for Kyleve-hawaii-ss_kyleve
+# android_samsung_tree_kyleve
+Vendor Tree for Kylevess
